@@ -28,7 +28,7 @@ mkdir WSN-Fault-Data && cd WSN-Fault-Data
 
 # Initialize git and set remote
 git init
-git remote add origin https://github.com/SinnerSS/WSN-Fault-Data
+git remote add origin <...>
 
 # Configure sparse-checkout
 git sparse-checkout init
